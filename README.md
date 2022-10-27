@@ -22,11 +22,7 @@ Download the data from google drive.
 If you want to see how to get data from Kaggle and split it flow this
 linke:
 <https://github.com/zain2525/TensorFlow-Computer-Vision-project/blob/main/Prepare_flower_data.ipynb>
-:::
 
-::: {.cell .code execution_count="2" colab="{\"base_uri\":\"https://localhost:8080/\"}" id="k2PnORWDbJOZ" outputId="1453a051-9c9d-4211-ad74-9b2c21af5760"}
-``` {.python}
-!gdown --id 1SLDNPYcuDbt300xekB9oyRpf-pEsgNph
 ```
 
 ::: {.output .stream .stdout}
