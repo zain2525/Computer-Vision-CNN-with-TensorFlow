@@ -14,9 +14,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 ```
-:::
 
-::: {.cell .markdown id="jIiW6VtDcSul"}
 ## Import the data and become one with it. {#import-the-data-and-become-one-with-it}
 
 Download the data from google drive.
