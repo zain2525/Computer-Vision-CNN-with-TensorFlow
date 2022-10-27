@@ -1,4 +1,3 @@
-::: {.cell .markdown id="ngiWdaAobVWd"}
 # Computer Vision with tensorflow (CNN): 🌸\| Flowers {#computer-vision-with-tensorflow-cnn--flowers}
 
 I\'m going to work with 16 classes of flowers (Multi-class
