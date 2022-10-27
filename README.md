@@ -15,7 +15,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 ```
 
-## Import the data and become one with it. {#import-the-data-and-become-one-with-it}
+## Import the data and become one with it. 
 
 Download the data from google drive.
 
