@@ -1,14 +1,11 @@
-# Computer Vision with tensorflow (CNN): 🌸\| Flowers {#computer-vision-with-tensorflow-cnn--flowers}
+# Computer Vision with tensorflow (CNN): 🌸\| Flowers 
 
 I\'m going to work with 16 classes of flowers (Multi-class
 classification)
 
 The data Iam going to work with is the **Flowers** dataset from kaggle:
 <https://www.kaggle.com/datasets/l3llff/flowers>
-:::
 
-::: {.cell .code execution_count="1" id="GZN5himreemI"}
-``` {.python}
 # Import required libraries
 import tensorflow as tf
 import numpy as np
